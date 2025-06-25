@@ -7,4 +7,4 @@ Basic Web and Streamlit for Simple Deployment
   * Được lưu trữ tại branch: https://github.com/ndh2836/Project-1.1_Module-1-Python/tree/Student-Score-Analyze
  
 * Project 1.1 - Xây dựng ứng dụng tính hàm toán học giai thừa
- * Được lưu trữ tại branch: 
+  * Được lưu trữ tại branch: 
